@@ -1,9 +1,9 @@
 # Medical-MDD-test-task
 
-Coding assignment to help candidates to show their experience in front-end development.
+Coding assignment to help candidates to show their experience in front-end development with using of metadata.
 
 ### Recommended stack:
-*   ReactNative
+*   React Native
 *   Redux Toolkit (optional)
 *   feel free to install packages you need but with a simple explanation why they
 
